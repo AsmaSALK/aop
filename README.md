@@ -3,7 +3,7 @@
 
 ## 1er test
  #### 1er aspect 
-![alt text](images/img_1.png)
+![alt text](aop/images/img_1.png)
 #### 2ème aspect
 ![alt text](images/img_2.png)
 #### résultat
