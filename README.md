@@ -26,7 +26,7 @@
 #### result
 ![alt text](aop/images/img_9.png)
 #### logs
-![alt text](images/img_10.png)
+![alt text](aop/images/img_10.png)
 
 # Exemple Spring AOP
 ![alt text](aop/images/img_11.png)
